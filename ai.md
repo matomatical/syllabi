@@ -132,6 +132,5 @@ TODO:
 * Read "Out of Control"
 * Read Holland, 1992, "Adaption in Natural and Artificial Systems"
 * Read Nitzberg, "Solomon's Code" or something
-* MIRI has a good high-level syllabus for logic
+* MIRI has a good high-level syllabus for logic and more, see that for ideas!
 
-TOO

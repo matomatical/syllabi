@@ -8,11 +8,20 @@ intelligence. Very high-level.
 Prerequisites
 -------------
 
+Recommended:
+
 * Programming
 * Algorithms
-* Linear algebra
 * Probability
+* Linear algebra
+* Theory of computation
 
+Actually, I'm not sure about these. There woudn't be time to teach a complete
+beginner these things from scratch, but also I would want to focus on pretty
+basic/foundational ideas within some of these topics.
+
+Maybe each week could have recommended resources for anyone lacking the required
+background.
 
 Syllabus
 --------

@@ -13,13 +13,22 @@ Courses
 -------
 
 * [Artificial Intelligence](ai.md)---a high-level tour of many topics in the
-  quest to create intelligent machinery
+  quest to create intelligent machinery. Original. Way too long for a
+  semester.
+
+* [Ethics of Artificial Intelligence](eai.md)---topics and readings from
+  COMP90087 at the University of Melbourne, with my own list of topics at
+  the end (just an initial sketch).
+
+* [Machine Learning](ml-jams.md)---sequence of introductory topics in ML,
+  loosely based on the overrated coursera course. Incomplete.
+
+* [Thermodynamics](thermal.pdf)---a long time ago, I sketched a class on
+  statistical mechanics.
 
 
 TODO:
 
-* Make a class on computation
-* Add notes from ML-JAMS (course, resources, excercises, on introductory ML)
-* Type up thermodynamics class? (and then study it, haha)
-* Rearrange Ethics of AI class?
-* Rearrange Statistical Learning Theory class?
+* See reMarkable notes about rearranging Statistical Learning Theory class.
+* Make a class on computation.
+* Complete and elaborate on these syllabi into full courses.
